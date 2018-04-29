@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e1e192-098e-4b8e-b4d9-108edc771bb8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/waysToGiveACheck4.java" afterPath="$PROJECT_DIR$/src/waysToGiveACheck4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Solution10.java" afterPath="$PROJECT_DIR$/src/CubesAndCylinders.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Solution5.java" afterPath="$PROJECT_DIR$/src/RaceAgainstTime.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Solution6.java" afterPath="$PROJECT_DIR$/src/SumOfMultiplesOf3And5.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Solution8.java" afterPath="$PROJECT_DIR$/src/TowersRevisited.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Solution9.java" afterPath="$PROJECT_DIR$/src/MaxPermutation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Solution9B.java" afterPath="$PROJECT_DIR$/src/MaxPermutationWithRecursion.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/solution7.java" afterPath="$PROJECT_DIR$/src/RevisedRussianRoulette.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="waysToGiveACheck4.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="waysToGiveACheck4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/waysToGiveACheck4.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -27,21 +34,89 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="waysToGiveACheck3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/waysToGiveACheck3.java">
+      <file leaf-file-name="CubesAndCylinders.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CubesAndCylinders.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1751">
-              <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RaceAgainstTime.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RaceAgainstTime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="waysToGiveACheck2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/waysToGiveACheck2.java">
+      <file leaf-file-name="SumOfMultiplesOf3And5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SumOfMultiplesOf3And5.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+              <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RevisedRussianRoulette.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RevisedRussianRoulette.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TowersRevisited.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TowersRevisited.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxPermutation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MaxPermutation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxPermutationWithRecursion.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="waysToGiveACheck3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/waysToGiveACheck3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1751">
+              <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -95,6 +170,14 @@
         <option value="$PROJECT_DIR$/src/waysToGiveACheck2.java" />
         <option value="$PROJECT_DIR$/src/waysToGiveACheck1.java" />
         <option value="$PROJECT_DIR$/src/waysToGiveACheck4.java" />
+        <option value="$PROJECT_DIR$/src/CubesAndCylinders.java" />
+        <option value="$PROJECT_DIR$/src/RaceAgainstTime.java" />
+        <option value="$PROJECT_DIR$/src/SumOfMultiplesOf3And5.java" />
+        <option value="$PROJECT_DIR$/src/RevisedRussianRoulette.java" />
+        <option value="$PROJECT_DIR$/src/Towers(Revisited).java" />
+        <option value="$PROJECT_DIR$/src/TowersRevisited.java" />
+        <option value="$PROJECT_DIR$/src/MaxPermutation.java" />
+        <option value="$PROJECT_DIR$/src/MaxPermutationWithRecursion.java" />
       </list>
     </option>
   </component>
@@ -105,7 +188,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -118,7 +201,28 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -332,7 +436,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -346,7 +449,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5147392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5147392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960753" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -598,529 +701,529 @@
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>41</line>
           <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>64</line>
           <properties />
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>70</line>
           <properties />
           <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>16</line>
           <properties />
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>24</line>
           <properties />
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>32</line>
           <properties />
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>33</line>
           <properties />
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>42</line>
           <properties />
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>45</line>
           <properties />
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>46</line>
           <properties />
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>47</line>
           <properties />
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>51</line>
           <properties />
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>52</line>
           <properties />
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>58</line>
           <properties />
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>59</line>
           <properties />
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>61</line>
           <properties />
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>63</line>
           <properties />
           <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>69</line>
           <properties />
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>26</line>
           <properties />
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>35</line>
           <properties />
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>36</line>
           <properties />
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>37</line>
           <properties />
           <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution5.java</url>
+          <url>file://$PROJECT_DIR$/src/RaceAgainstTime.java</url>
           <line>38</line>
           <properties />
           <option name="timeStamp" value="85" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution6.java</url>
+          <url>file://$PROJECT_DIR$/src/SumOfMultiplesOf3And5.java</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="86" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution6.java</url>
+          <url>file://$PROJECT_DIR$/src/SumOfMultiplesOf3And5.java</url>
           <line>16</line>
           <properties />
           <option name="timeStamp" value="88" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/solution7.java</url>
+          <url>file://$PROJECT_DIR$/src/RevisedRussianRoulette.java</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/solution7.java</url>
+          <url>file://$PROJECT_DIR$/src/RevisedRussianRoulette.java</url>
           <line>30</line>
           <properties />
           <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/solution7.java</url>
+          <url>file://$PROJECT_DIR$/src/RevisedRussianRoulette.java</url>
           <line>9</line>
           <properties />
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/solution7.java</url>
+          <url>file://$PROJECT_DIR$/src/RevisedRussianRoulette.java</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/solution7.java</url>
+          <url>file://$PROJECT_DIR$/src/RevisedRussianRoulette.java</url>
           <line>16</line>
           <properties />
           <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/solution7.java</url>
+          <url>file://$PROJECT_DIR$/src/RevisedRussianRoulette.java</url>
           <line>17</line>
           <properties />
           <option name="timeStamp" value="100" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/solution7.java</url>
+          <url>file://$PROJECT_DIR$/src/RevisedRussianRoulette.java</url>
           <line>8</line>
           <properties />
           <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution8.java</url>
+          <url>file://$PROJECT_DIR$/src/TowersRevisited.java</url>
           <line>14</line>
           <properties />
           <option name="timeStamp" value="103" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution8.java</url>
+          <url>file://$PROJECT_DIR$/src/TowersRevisited.java</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="104" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution8.java</url>
+          <url>file://$PROJECT_DIR$/src/TowersRevisited.java</url>
           <line>16</line>
           <properties />
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution8.java</url>
+          <url>file://$PROJECT_DIR$/src/TowersRevisited.java</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="106" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution8.java</url>
+          <url>file://$PROJECT_DIR$/src/TowersRevisited.java</url>
           <line>19</line>
           <properties />
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution8.java</url>
+          <url>file://$PROJECT_DIR$/src/TowersRevisited.java</url>
           <line>20</line>
           <properties />
           <option name="timeStamp" value="108" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution8.java</url>
+          <url>file://$PROJECT_DIR$/src/TowersRevisited.java</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="109" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution8.java</url>
+          <url>file://$PROJECT_DIR$/src/TowersRevisited.java</url>
           <line>26</line>
           <properties />
           <option name="timeStamp" value="110" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution8.java</url>
+          <url>file://$PROJECT_DIR$/src/TowersRevisited.java</url>
           <line>27</line>
           <properties />
           <option name="timeStamp" value="111" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution8.java</url>
+          <url>file://$PROJECT_DIR$/src/TowersRevisited.java</url>
           <line>29</line>
           <properties />
           <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution8.java</url>
+          <url>file://$PROJECT_DIR$/src/TowersRevisited.java</url>
           <line>28</line>
           <properties />
           <option name="timeStamp" value="113" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution8.java</url>
+          <url>file://$PROJECT_DIR$/src/TowersRevisited.java</url>
           <line>53</line>
           <properties />
           <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution8.java</url>
+          <url>file://$PROJECT_DIR$/src/TowersRevisited.java</url>
           <line>48</line>
           <properties />
           <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution8.java</url>
+          <url>file://$PROJECT_DIR$/src/TowersRevisited.java</url>
           <line>52</line>
           <properties />
           <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution8.java</url>
+          <url>file://$PROJECT_DIR$/src/TowersRevisited.java</url>
           <line>49</line>
           <properties />
           <option name="timeStamp" value="117" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution8.java</url>
+          <url>file://$PROJECT_DIR$/src/TowersRevisited.java</url>
           <line>50</line>
           <properties />
           <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutation.java</url>
           <line>30</line>
           <properties />
           <option name="timeStamp" value="119" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutation.java</url>
           <line>60</line>
           <properties />
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutation.java</url>
           <line>63</line>
           <properties />
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutation.java</url>
           <line>65</line>
           <properties />
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutation.java</url>
           <line>67</line>
           <properties />
           <option name="timeStamp" value="123" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution10.java</url>
+          <url>file://$PROJECT_DIR$/src/CubesAndCylinders.java</url>
           <line>31</line>
           <properties />
           <option name="timeStamp" value="124" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution10.java</url>
+          <url>file://$PROJECT_DIR$/src/CubesAndCylinders.java</url>
           <line>32</line>
           <properties />
           <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution10.java</url>
+          <url>file://$PROJECT_DIR$/src/CubesAndCylinders.java</url>
           <line>28</line>
           <properties />
           <option name="timeStamp" value="132" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution10.java</url>
+          <url>file://$PROJECT_DIR$/src/CubesAndCylinders.java</url>
           <line>24</line>
           <properties />
           <option name="timeStamp" value="133" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>56</line>
           <properties />
           <option name="timeStamp" value="134" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>57</line>
           <properties />
           <option name="timeStamp" value="135" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>59</line>
           <properties />
           <option name="timeStamp" value="136" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>61</line>
           <properties />
           <option name="timeStamp" value="137" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>63</line>
           <properties />
           <option name="timeStamp" value="139" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>65</line>
           <properties />
           <option name="timeStamp" value="140" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>67</line>
           <properties />
           <option name="timeStamp" value="141" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>66</line>
           <properties />
           <option name="timeStamp" value="142" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>108</line>
           <properties />
           <option name="timeStamp" value="143" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>109</line>
           <properties />
           <option name="timeStamp" value="144" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>111</line>
           <properties />
           <option name="timeStamp" value="145" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>110</line>
           <properties />
           <option name="timeStamp" value="146" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>112</line>
           <properties />
           <option name="timeStamp" value="147" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>113</line>
           <properties />
           <option name="timeStamp" value="148" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>114</line>
           <properties />
           <option name="timeStamp" value="149" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>115</line>
           <properties />
           <option name="timeStamp" value="150" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>122</line>
           <properties />
           <option name="timeStamp" value="151" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>64</line>
           <properties />
           <option name="timeStamp" value="152" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>60</line>
           <properties />
           <option name="timeStamp" value="153" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>78</line>
           <properties />
           <option name="timeStamp" value="183" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>79</line>
           <properties />
           <option name="timeStamp" value="184" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>80</line>
           <properties />
           <option name="timeStamp" value="185" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>81</line>
           <properties />
           <option name="timeStamp" value="186" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>82</line>
           <properties />
           <option name="timeStamp" value="187" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>84</line>
           <properties />
           <option name="timeStamp" value="188" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>85</line>
           <properties />
           <option name="timeStamp" value="189" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>90</line>
           <properties />
           <option name="timeStamp" value="197" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution9B.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java</url>
           <line>87</line>
           <properties />
           <option name="timeStamp" value="198" />
@@ -1348,7 +1451,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/solution7.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisedRussianRoulette.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1241">
           <caret line="73" column="24" lean-forward="false" selection-start-line="71" selection-start-column="20" selection-end-line="73" selection-end-column="24" />
@@ -1356,7 +1459,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution8.java">
+    <entry file="file://$PROJECT_DIR$/src/TowersRevisited.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
@@ -1373,7 +1476,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution5.java">
+    <entry file="file://$PROJECT_DIR$/src/RaceAgainstTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1122">
           <caret line="66" column="38" lean-forward="false" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
@@ -1381,7 +1484,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution6.java">
+    <entry file="file://$PROJECT_DIR$/src/SumOfMultiplesOf3And5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -1389,7 +1492,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution9.java">
+    <entry file="file://$PROJECT_DIR$/src/MaxPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
@@ -1423,7 +1526,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/solution7.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisedRussianRoulette.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1241">
           <caret line="73" column="24" lean-forward="false" selection-start-line="71" selection-start-column="20" selection-end-line="73" selection-end-column="24" />
@@ -1438,7 +1541,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution5.java">
+    <entry file="file://$PROJECT_DIR$/src/RaceAgainstTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1122">
           <caret line="66" column="38" lean-forward="false" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
@@ -1446,7 +1549,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution6.java">
+    <entry file="file://$PROJECT_DIR$/src/SumOfMultiplesOf3And5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -1454,7 +1557,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution8.java">
+    <entry file="file://$PROJECT_DIR$/src/TowersRevisited.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
@@ -1495,7 +1598,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution5.java">
+    <entry file="file://$PROJECT_DIR$/src/RaceAgainstTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1122">
           <caret line="66" column="38" lean-forward="true" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
@@ -1503,7 +1606,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution6.java">
+    <entry file="file://$PROJECT_DIR$/src/SumOfMultiplesOf3And5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -1511,7 +1614,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/solution7.java">
+    <entry file="file://$PROJECT_DIR$/src/RevisedRussianRoulette.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1241">
           <caret line="73" column="24" lean-forward="true" selection-start-line="71" selection-start-column="20" selection-end-line="73" selection-end-column="24" />
@@ -1652,16 +1755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MaximizingTheProfit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1673,60 +1766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution9B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/solution7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1760,6 +1799,70 @@
         <state relative-caret-position="323">
           <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CubesAndCylinders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RaceAgainstTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SumOfMultiplesOf3And5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RevisedRussianRoulette.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TowersRevisited.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaxPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaxPermutationWithRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -6,7 +6,7 @@ import java.text.*;
 import java.util.*;
 import java.util.regex.*;
 
-public class Solution9 {
+public class MaxPermutation {
 
 
     /*

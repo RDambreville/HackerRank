@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class solution7 {
+public class RevisedRussianRoulette {
 
     /*static int[] revisedRussianRoulette(int[] doors){
         int min =0;

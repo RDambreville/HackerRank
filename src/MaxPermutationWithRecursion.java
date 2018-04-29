@@ -4,7 +4,7 @@ import java.text.*;
 import java.util.*;
 import java.util.regex.*;
 
-public class Solution9B {
+public class MaxPermutationWithRecursion {
 
     public static List<String> permute(char input[]) {
         Map<Character, Integer> countMap = new TreeMap<>();

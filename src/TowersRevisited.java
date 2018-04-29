@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution8 {
+public class TowersRevisited {
 
     public static int whoWins(int[] towers){
         int winner = 0;

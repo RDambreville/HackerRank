@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution5 {
+public class RaceAgainstTime {
 
     static long raceAgainstTime(/*int n, int mason_height,*/ int[] heights, int[] prices) {
         // Complete this function

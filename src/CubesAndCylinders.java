@@ -7,7 +7,7 @@ import java.util.regex.*;
 /*
   Cubes and Cylinders
  */
-public class Solution10 {
+public class CubesAndCylinders {
 
 
     /*
