@@ -38,14 +38,18 @@ public class waysToGiveACheck4 {
         }
 
         int promPawnRow = pawnRow + 1; // advance the rank of the pawn by 1 to denote the promotion
-        int promPawnColumn = pawnColumn; // keep the column of the pawn the same because promotion only occurs up and down, not left                                            and right
+        int promPawnColumn = pawnColumn; // keep the column of the pawn the same because promotion only occurs up and down, not left and right
 
         //Check to see which kinds of pieces can check the king after pawn promotion
-        if ((kingRow == promPawnRow || kingColumn == promPawnColumn) /*&& (there are no obstacles between pawn and king)*/) { //if the king is in the same row or column as the promoted pawn
+
+        //If the king is in the same row or column as the promoted pawn
+        if ((kingRow == promPawnRow || kingColumn == promPawnColumn) /*&& (there are no obstacles between pawn and king)*/) {
             ways += 2; // presumably, king can be checked by a rook or a queen
+
             //check for obstacles
 
             // Check king from left or right
+
             //from RIGHT
             int kColumn = kingColumn + 1; // temp king column holder
             if (kingRow == promPawnRow && kingColumn < promPawnColumn) { // if king is on same row as pawn but to LEFT of pawn
@@ -57,6 +61,7 @@ public class waysToGiveACheck4 {
                         kColumn++;
                     }
                 }
+
             //from LEFT
             } else if (kingRow == promPawnRow && kingColumn > promPawnColumn) {
                 kColumn = kingColumn - 1;
@@ -72,6 +77,7 @@ public class waysToGiveACheck4 {
 
             // Check king from above or below
             int kRow = kingRow + 1;
+
             //from ABOVE
             if (kingColumn == promPawnColumn && kingRow < promPawnRow) {
                 while (kRow < promPawnRow) {
@@ -111,7 +117,7 @@ public class waysToGiveACheck4 {
                 //test left diagonal
                 boolean checkKingOnLeftDiagonal = false;
                 outer:
-                for (int i = promPawnRow - 1; i > 0; i--) { // to be diagonal to pawn, king has to be at least 1 square below pawn. Keep                                                         // going down
+                for (int i = promPawnRow - 1; i > 0; i--) { // to be diagonal to pawn, king has to be at least 1 square below pawn. Keep moving down 1 row until king is found
                     for (int j = promPawnColumn - 1; j > 0; j--) { // starting one column to the left of pawn, keep going left
                         if (i == kingRow && j == kingColumn) { // if king is on left diagonal
                             checkKingOnLeftDiagonal = true; // king can be checked by bishop or queen
@@ -121,8 +127,8 @@ public class waysToGiveACheck4 {
                 }
                 //traverse left diagonal again to look for obstacles
                 outer:
-                for (int i = promPawnRow - 1; i > 0; i--) { // to be diagonal to pawn, king has to be at least 1 square below pawn. Keep                                                         // going down
-                    for (int j = promPawnColumn - 1; j > 0; j--) { // starting one column to the left of pawn, keep going left
+                for (int i = promPawnRow - 1; i > 0; i--) {
+                    for (int j = promPawnColumn - 1; j > 0; j--) {
                         if ((i > kingRow && j > kingColumn) && board[i][j] != '#') {
                             checkKingOnLeftDiagonal = false; // king cannot be checked by bishop or queen
                             break outer;
@@ -134,7 +140,7 @@ public class waysToGiveACheck4 {
                 //test right diagonal
                 boolean checkKingkOnRightDiagonal = false;
                 outer:
-                for (int i = promPawnRow - 1; i > 0; i--) { // to be diagonal to pawn, king has to be at least 1 square below pawn. Keep                                                         // going down
+                for (int i = promPawnRow - 1; i > 0; i--) { // to be diagonal to pawn, king has to be at least 1 square below pawn. Keep going down
                     for (int j = promPawnColumn + 1; j < 8; j++) { // starting one column to the right of pawn, keep going right
                         if (i == kingRow && j == kingColumn) { // if king is on right diagonal
                             checkKingkOnRightDiagonal = true; // king can be checked by bishop or queen
@@ -144,8 +150,8 @@ public class waysToGiveACheck4 {
                 }
                 //traverse right diagonal again to look for obstacles
                 outer:
-                for (int i = promPawnRow - 1; i > 0; i--) { // to be diagonal to pawn, king has to be at least 1 square below pawn. Keep                                                         // going down
-                    for (int j = promPawnColumn + 1; j < 8; j++) { // starting one column to the right of pawn, keep going right
+                for (int i = promPawnRow - 1; i > 0; i--) {
+                    for (int j = promPawnColumn + 1; j < 8; j++) {
                         if ((i > kingRow && j < kingColumn) && board[i][j] != '#') {
                             checkKingkOnRightDiagonal = false; // king cannot be checked by bishop or queen
                             break outer;
@@ -154,7 +160,7 @@ public class waysToGiveACheck4 {
                 }
 
 
-                if (checkKingOnLeftDiagonal || checkKingkOnRightDiagonal) { // if king is on either left or right diagonal
+                if (checkKingOnLeftDiagonal || checkKingkOnRightDiagonal) { // if king is on either diagonal
                     ways += 2; // king can be checked by bishop or queen
                 }
             }
