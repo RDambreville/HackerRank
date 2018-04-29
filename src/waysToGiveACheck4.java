@@ -16,7 +16,7 @@ public class waysToGiveACheck4 {
         boolean pawnFound = false;
 
         //get position of enemy king and position of pawn-to-be-promoted
-        outer: // lable the outer loop so that it can be broken out of once the king and pawn have been found
+        outer: // label the outer loop so that it can be broken out of once the king and pawn have been found
         for (int i = 0; i < 8; i++) {
             for (int j = 0; j < 8; j++) {
                 if (board[i][j] == 'k') {
