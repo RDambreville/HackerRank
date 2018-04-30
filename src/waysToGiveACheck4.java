@@ -4,6 +4,10 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+/*A program that determines how many different ways a promoted pawn can check the opponent's king.
+ The input is a 2-D chess board with various pieces positioned about. It is guaranteed that at least
+ one pawn is poised for promotion.*/
+
 public class waysToGiveACheck4 {
 
     static int waysToGiveACheck(char[][] board) {
